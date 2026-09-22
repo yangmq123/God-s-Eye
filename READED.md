@@ -1,0 +1,2 @@
+Everything in the world is inherently meaningless; we are the ones who give it meaning.
+The program generates colored noise at 30 frames per second, which may be perceived as meaningful by humans at some point in the universe.
